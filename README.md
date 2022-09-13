@@ -31,6 +31,7 @@
   <img alt="Java" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D"></a> 
   <img alt="C++" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC"></a> 
   <img alt="Lua" src="https://img.shields.io/badge/%20-LUA%20-black?style=for-the-badge&logo=lua"></a>
+  <img alt="Py" src="https://img.shields.io/badge/%20-PYTHON-black?style=for-the-badge&logo=python"></a>
 </p>
 
 
@@ -39,7 +40,7 @@
 
 <p align="center">
     <a href="https://github.com/zap66">
-        <img title="SarnaxLii stats" alt="Fnoberz's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Fnoberz&theme=dark&hide_border=true&stroke=f53b3b"/>
+        <img title="SarnaxLii stats" alt="Zappy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Fnoberz&theme=dark&hide_border=true&stroke=f53b3b"/>
     </a>
 </p><br>
 <a href="https://github.com/zap66"><img alt="Fnoberz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Fnoberz&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
