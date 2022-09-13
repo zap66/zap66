@@ -4,7 +4,7 @@
 <p align="center">
 
 
-![Zappy](https://api.creavite.co/out/SNvZ6M6zX5e4ri4j8v_standard.webm)
+![Zappy](<img width=280px, height=250px src="gg.jpeg">)
 
 
 
