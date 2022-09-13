@@ -16,7 +16,7 @@
 
 <p align="center">
     <a href="https://discord.gg/VnKw8kxfBm">
-   <img alt="Discord" src="[https://img.shields.io/badge/Discord-Fnoberz%230001-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000](https://img.shields.io/badge/zappy-%230051-blue?style=for-the-badge&logo=discord)'"></a>  
+   <img alt="Discord" src="https://img.shields.io/badge/zappy-%230051-blue?style=for-the-badge&logo=discord'"></a>  
   <a href="https://github.com/zap66">
    <img alt="Github" src="https://img.shields.io/github/followers/zap66?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
   
