@@ -68,6 +68,6 @@
 <h2 align="center"</h2>
 
 [![Telegram](https://img.shields.io/badge/-telegram-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/swagmessiah)
-<a target="_blank" href="https://discord.gg/VnKw8kxfBm"><img alt="Discord" src="https://img.shields.io/badge/server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a target="_blank" href="https://discord.gg/VnKw8kxfBm"><img alt="Discord" src="https://img.shields.io/badge/-server-%23282a36?style=for-the-badge&logo=discord&logoColor=white"/></a>
 [![YouTube Channel](https://img.shields.io/badge/-YouTube-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/channel/UCH4kNKY-dRlMu7UX1TyHcRw)
 <h2 align="center"> Copyright © 2020 - 2022  
