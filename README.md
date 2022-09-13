@@ -56,7 +56,7 @@
 
 - ⚡ Website [Zappy.pw](https://zappy.pw)
 
-- 💬 Discord [zappy#0051](https://discord.com/users/970882389930807406) | [Cloud | Project](https://discord.gg/MBTkVcJefp)
+- 💬 Discord [zappy#0051](https://discord.com/users/970882389930807406)
 
 - 📧 Contact help@zappy.pw | [Telegram](https://t.me/swagmessiah) | +1 347 683 8030 (USA)
 
