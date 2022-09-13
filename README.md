@@ -16,9 +16,9 @@
 
 <p align="center">
     <a href="https://discord.gg/VnKw8kxfBm">
-   <img alt="Discord" src="https://img.shields.io/badge/DISCORD-ZAPPY%23--0051-blue?style=for-the-badge&logo=discord'"></a>  
+   <img alt="Discord" src="https://img.shields.io/badge/DISCORD-ZAPPY%23--0051-blue?style=for-the-badge&logo=discord"></a>  
   <a href="https://github.com/zap66">
-   <img alt="Github" src="https://img.shields.io/badge/FOLLOWERS-275-blue?style=for-the-badge&logo=github'"></a>   
+   <img alt="Github" src="https://img.shields.io/badge/FOLLOWERS-275-blue?style=for-the-badge&logo=github"></a>   
   
   
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=dark_dimmed)](https://github.com/ryo-ma)
