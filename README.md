@@ -72,13 +72,6 @@
 [![YouTube Channel](https://img.shields.io/badge/-YouTube-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/channel/UCH4kNKY-dRlMu7UX1TyHcRw)
 <a target="_blank" href="https://twitter.com/FnoberzOfficial"><img alt="Twitter" src="https://img.shields.io/badge/@Fnoberz-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
-
-<h2 align="center">Discord Profile</h2><br>
-  <p align="center">
-    <a href="https://discord.com/users/9970882389930807406">
-    </a>
-</p>
-
 </p>
 
 <h2 align="center"> Copyright © 2020 - 2022  
