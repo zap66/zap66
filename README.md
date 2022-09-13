@@ -16,7 +16,7 @@
 
 <p align="center">
     <a href="https://discord.gg/VnKw8kxfBm">
-   <img alt="Discord" src="https://img.shields.io/badge/zappy-%230051-blue?style=for-the-badge&logo=discord'"></a>  
+   <img alt="Discord" src="https://img.shields.io/badge/DISCORD-ZAPPY%23--0051-blue?style=for-the-badge&logo=discord'"></a>  
   <a href="https://github.com/zap66">
    <img alt="Github" src="https://img.shields.io/badge/FOLLOWERS-275-blue?style=for-the-badge&logo=github'"></a>   
   
