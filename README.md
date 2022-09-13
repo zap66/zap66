@@ -30,7 +30,7 @@
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D"></a> 
   <img alt="C++" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC"></a> 
-  <img alt="Lua" src="https://img.shields.io/badge/%20-LUA%20-black?style=flat-square&logo=lua"></a>
+  <img alt="Lua" src="https://img.shields.io/badge/%20-LUA%20-black?style=for-the-badge&logo=lua"></a>
 </p>
 
 
