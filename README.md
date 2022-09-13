@@ -8,7 +8,7 @@
 
 <p align="center">
 
-https://img.shields.io/badge/ZAPPY-.PW-green?style=for-the-badge
+[![](https://img.shields.io/badge/ZAPPY-.PW-green?style=for-the-badge)](https://zappy.pw)
   
 
 
