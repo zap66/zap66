@@ -1,10 +1,6 @@
 <h2 align="center">
-
-  
 <p align="center">
-
-
-![Zappy](<img width=280px, height=250px src="gg.jpeg">)
+<img width=280px, height=250px src="gg.jpeg">
 
 
 
