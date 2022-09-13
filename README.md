@@ -44,7 +44,7 @@
         <img title="SarnaxLii stats" alt="Zappy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Fnoberz&theme=dark&hide_border=true&stroke=f53b3b"/>
     </a>
 </p><br>
-<a href="https://github.com/zap66"><img alt="Fnoberz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Fnoberz&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/zap66"><img alt="Zappy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Fnoberz&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
   
 
 
