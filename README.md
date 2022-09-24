@@ -12,7 +12,7 @@
 
 <p align="center">
 
-[![]([https://img.shields.io/badge/Fnoberz-.com-Blue?style=for-the-badge&logo=HTML](https://img.shields.io/badge/ZAPPY-.PW-blue?style=for-the-badge&logo=HTML))](http://zappy.pw/)
+[![](https://img.shields.io/badge/ZAPPY-.PW-blue?style=for-the-badge&logo=html)](http://zappy.pw/)
   
 
 
