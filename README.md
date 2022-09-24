@@ -4,7 +4,7 @@
 <p align="center">
 
 
-![Fnoberz](https://user-images.githubusercontent.com/94861415/189298272-2ea7c161-fe69-4394-b316-3fe5a87583f7.png)
+
 
 
 
@@ -12,7 +12,7 @@
 
 <p align="center">
 
-[![](https://img.shields.io/badge/Fnoberz-.com-Blue?style=for-the-badge&logo=HTML)](http://fnoberz.com/)
+[![]([https://img.shields.io/badge/Fnoberz-.com-Blue?style=for-the-badge&logo=HTML](https://img.shields.io/badge/ZAPPY-.PW-blue?style=for-the-badge&logo=HTML))](http://zappy.pw/)
   
 
 
