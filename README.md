@@ -1,72 +1,9 @@
-<h2 align="center">
-<p align="center">
-<img width=280px, height=250px src="gg.jpeg">
+- 👋 Hi! im zappy, a skidder who is 12!
 
+- ⚡ Website [Zappy.pw](https://zappy.pw) I probably carded this!
 
+- 💬 Discord [zappy#0051](https://discord.com/users/970882389930807406) - Please nuke my discord!
 
+- 📧 Contact help@zappy.pw | (Only contact me if you wanna see CP)
 
-
-<p align="center">
-
-[![](https://img.shields.io/badge/ZAPPY-.PW-green?style=for-the-badge)](https://zappy.pw)
-  
-
-
-  
-
-<p align="center">
-    <a href="https://discord.gg/VnKw8kxfBm">
-   <img alt="Discord" src="https://img.shields.io/badge/DISCORD-ZAPPY%230051-blue?style=for-the-badge&logo=discord"></a>  
-  <a href="https://github.com/zap66">
-   <img alt="Github" src="https://img.shields.io/badge/FOLLOWERS-275-blue?style=for-the-badge&logo=github"></a>   
-  
-  
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=dark_dimmed)](https://github.com/ryo-ma)
-
-  ----
-
-
-<h2 align="center">Programming languages that i mainly use.</h2>
-<p align="center">
-  <img alt="C++" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC"></a> 
-  <img alt="Lua" src="https://img.shields.io/badge/%20-LUA%20-black?style=for-the-badge&logo=lua"></a>
-  <img alt="Py" src="https://img.shields.io/badge/%20-PYTHON-black?style=for-the-badge&logo=python"></a>
-  <img alt="C#" src="https://img.shields.io/badge/%20-C%23-black?style=for-the-badge&logo=csharp"></a>
-  <img alt="Java" src="https://img.shields.io/badge/%20-JAVA-black?style=for-the-badge"></a>
-</p>
-
-
-
-<h2 align="center">My github profile stastictics.</h2>
-
-<p align="center">
-    <a href="https://github.com/zap66">
-        <img title="SarnaxLii stats" alt="Zappy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Fnoberz&theme=dark&hide_border=true&stroke=f53b3b"/>
-    </a>
-</p><br>
-<a href="https://github.com/zap66"><img alt="Zappy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Fnoberz&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
-  
-
-
-
-<h2 align="center">Contact me</h2>
-
-
-- 👋 Hi! im zappy, a java developer learning C++.
-
-- ⚡ Website [Zappy.pw](https://zappy.pw)
-
-- 💬 Discord [zappy#0051](https://discord.com/users/970882389930807406)
-
-- 📧 Contact help@zappy.pw | [Telegram](https://t.me/swagmessiah) | +1 347 683 8030 (USA)
-
-
-</pre><br>
-
-<h2 align="center">Social media</h2>
-
-<h2 align="center"</h2>
-
-[![Telegram](https://img.shields.io/badge/-telegram-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/swagmessiah)
-<a target="_blank" href="https://discord.gg/VnKw8kxfBm"><img alt="Discord" src="https://img.shields.io/badge/-server-%23282a36?style=for-the-badge&logo=discord&logoColor=white"/></a>
-[![YouTube Channel](https://img.shields.io/badge/-YouTube-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/channel/UCbaYhoKHYK-RbYFoXFEBwqA)
+-Chazed hehe
