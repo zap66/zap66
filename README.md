@@ -61,7 +61,7 @@
 
 - ⚡ Website [Fnoberz.com](http://fnoberz.com/) | It's Just an Introduction and **Work History.**
 
-- 💬 Discord [zappy#0051](https://discord.com/users/943374631644045363)
+- 💬 Discord [zappy#0051](https://discord.com/users/970882389930807406)
 
 - 📧 Contact FnoberzOfficial@pm.me | [Telegram](https://t.me/Fnoberz) | +1 517 224 1284 (USA)
 
@@ -79,7 +79,7 @@
 
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
-    <a href="https://discord.com/users/943374631644045363">
+    <a href="https://discord.com/users/970882389930807406">
         <img title="Fnoberz server discord" alt="Fnoberz's discord" src="https://discord.c99.nl/widget/theme-4/943374631644045363.png"/>
     </a>
 </p>
