@@ -57,13 +57,13 @@
 
 <h2 align="center">Contact me</h2>
 
-- 👋 Hello I'm zappy.
+- 👋 Hello! My name is zappy.
 
-- ⚡ Website [Fnoberz.com](http://fnoberz.com/) | It's Just an Introduction and **Work History.**
+- ⚡ My Personal Website [Zappy.pw](http://zappy.pw/)
 
 - 💬 Discord [zappy#0051](https://discord.com/users/970882389930807406)
 
-- 📧 Contact FnoberzOfficial@pm.me | [Telegram](https://t.me/Fnoberz) | +1 517 224 1284 (USA)
+- 📧 Contacts help@zappy.pw | [Telegram](https://t.me/reverse_engineered) | +1 347 683 8030 (USA)
 
 
 </pre><br>
@@ -72,18 +72,13 @@
 
 <h2 align="center"</h2>
 
-[![Telegram](https://img.shields.io/badge/-Fnoberz-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/swagmessiah)
-[![YouTube Channel](https://img.shields.io/badge/-YouTube-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/channel/UCH4kNKY-dRlMu7UX1TyHcRw)
+[![Telegram](https://img.shields.io/badge/-Fnoberz-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/reverse_engineered)
+[![YouTube Channel](https://img.shields.io/badge/-YouTube-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/channel/UCbaYhoKHYK-RbYFoXFEBwqA)
 <a target="_blank" href="https://twitter.com/FnoberzOfficial"><img alt="Twitter" src="https://img.shields.io/badge/@Fnoberz-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
 
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.com/users/970882389930807406">
-        <img title="Fnoberz server discord" alt="Fnoberz's discord" src="https://discord.c99.nl/widget/theme-3/970882389930807406.png"/>
     </a>
 </p>
-
-</p>
-
-<h2 align="center"> Copyright © 2020 - 2022  
