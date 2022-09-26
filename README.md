@@ -74,7 +74,7 @@
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-blue?style=for-the-badge&logo=telegram)](https://t.me/reverse_engineered)
 [![YouTube Channel](https://img.shields.io/badge/-YouTube-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/channel/UCbaYhoKHYK-RbYFoXFEBwqA)
-<a target="_blank" href="https://twitter.com/zappypw"><img alt="Twitter" src="https://img.shields.io/badge/-TWITTER-blue?style=for-the-badge&logo=twitter"/></a>
+<a target="_blank" href="https://twitter.com/zappypw"><img alt="Twitter" src="https://img.shields.io/badge/-TWITTER-blue?style=for-the-badge&logo=twitter"/>/>
 
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
