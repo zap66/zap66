@@ -79,6 +79,6 @@
 </p>
   <p align="center">
     <a href="https://discord.com/users/943374631644045363">
-        <img title="Fnoberz server discord" alt="Fnoberz's discord" src="https://discord.c99.nl/widget/theme-4/943374631644045363.png"/>
+        <img title="dcs" alt="dc" src="https://discord.c99.nl/widget/theme-2/970882389930807406.png"/>
     </a>
 </p>
